@@ -1,0 +1,87 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+body{
+    background: url(../Imagenes/Atardecer.jpg);
+}
+table{
+    width: 80%;
+    position: relative;
+    left: 350px;
+    top: 90px;
+}
+
+input{
+    margin: 20px 0px;
+}
+
+#Usuario,#contraseña,#Nombre,#numero,#email{
+    margin-left: 90px;
+}
+
+#contraseña{
+    position: relative;
+    right: 20px;
+}
+
+#Nombre{
+    position: relative;
+    right: 1px;
+}
+
+#numero,#email{
+    position: relative;
+    left: 17px;
+}
+
+#apellido{
+    position: relative;
+    left: 68px;
+}
+
+#Lista{
+    position: relative;
+    left: 96px;
+}
+
+#grup{
+    width: 150px;
+    height: 150px;
+    position: relative;
+}
+
+#tip{
+    width: 190px;
+    height: 180px;
+    position: relative;
+    left: 180px;
+    bottom: 155px;
+    
+}
+
+#txtdocumen{
+    position: relative;
+    left: 39px;
+    
+}
+#enviar{
+    position: relative;
+    left: 200px;
+    bottom: 100px;
+}
+
+#borrar{
+    position: relative;
+    right: 200px;
+    bottom: 95px;
+}
+
+h1{
+    position: relative;
+    left: 350px;
+    top: 90px;
+    font-size: 40px;
+    font-family: 'Courier New', Courier, monospace;
+}
